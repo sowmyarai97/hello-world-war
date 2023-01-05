@@ -4,7 +4,6 @@
 </head>
 <body>
 	<h1>buiding with webhooks</h1>
-	<h1>webhook triger</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
